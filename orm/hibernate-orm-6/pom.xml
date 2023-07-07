@@ -8,7 +8,7 @@
 	<name>Hibernate ORM 6 Test Case Template</name>
 
 	<properties>
-		<version.com.h2database>2.1.214</version.com.h2database>
+		<version.com.h2database>1.4.200</version.com.h2database>
 		<version.junit>4.13.2</version.junit>
 		<version.org.hibernate>6.2.6.Final</version.org.hibernate>
 	</properties>
@@ -35,6 +35,7 @@
 			<artifactId>junit</artifactId>
 			<version>${version.junit}</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>

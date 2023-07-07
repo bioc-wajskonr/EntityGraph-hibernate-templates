@@ -1,6 +1,6 @@
 package org.hibernate.validator.bugs;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 public class YourAnnotatedBean {
 
